@@ -43,9 +43,7 @@ import jakarta.xml.bind.annotation.XmlType;
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "", propOrder = {
     "trackCount",
-    "medium",
-    "count",
-    "offset"
+    "medium"
 })
 @XmlRootElement(name = "medium-list")
 public class MediumList {

@@ -285,9 +285,7 @@ public class Medium {
      */
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = {
-        "defTrack",
-        "count",
-        "offset"
+        "defTrack"
     })
     public static class TrackList {
 

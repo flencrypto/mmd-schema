@@ -40,9 +40,7 @@ import jakarta.xml.bind.annotation.XmlType;
  */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "", propOrder = {
-    "disc",
-    "count",
-    "offset"
+    "disc"
 })
 @XmlRootElement(name = "disc-list")
 public class DiscList {
