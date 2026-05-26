@@ -1,4 +1,4 @@
-ARG MAVEN_TAG=3.9.6-eclipse-temurin-17
+ARG MAVEN_TAG=3.9.9-eclipse-temurin-21
 
 FROM maven:${MAVEN_TAG}
 
